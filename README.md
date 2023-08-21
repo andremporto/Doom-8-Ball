@@ -1,4 +1,4 @@
-# Doom 8 Ball
+![Doom-8-Ball](https://socialify.git.ci/andremporto/Doom-8-Ball/image?description=1&descriptionEditable=A%20Magic%208%20Ball%20app.&forks=1&issues=1&language=1&name=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Auto)
 
 ## Our Goal
 
